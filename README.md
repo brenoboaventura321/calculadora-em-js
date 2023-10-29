@@ -20,7 +20,7 @@ Uma calculadora básica que executa operações matemáticas simples. Este proje
 
 ## Pré-visualização
 
-![](./prints/calc.png)
+![](/prints/calc.png)
 
 ## Instalação e Uso
 
